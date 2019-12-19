@@ -1,7 +1,7 @@
 # snr
 String Number Recognition project
 
-[JavaDoc](https://kindratsm.github.io/snr/javadoc/)
+[Documentation](https://kindratsm.github.io/snr/javadoc/)
 
 ## Test the project
 Test the project, run the command:
@@ -24,3 +24,7 @@ or
 ```
 java -jar snr-0.0.1.jar
 ```
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/kindratsm/snr/blob/master/LICENSE) file
+for the full license text.
