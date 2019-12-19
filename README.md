@@ -1,4 +1,6 @@
 # String Number Recognition (SNR) project
+NOTE: to test/build/run an application you must have JavaFX installed.
+
 [Documentation](https://kindratsm.github.io/snr/javadoc/)
 
 ## Test the project
