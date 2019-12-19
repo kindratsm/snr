@@ -1,6 +1,4 @@
-# snr
-String Number Recognition project
-
+# String Number Recognition (SNR) project
 [Documentation](https://kindratsm.github.io/snr/javadoc/)
 
 ## Test the project
